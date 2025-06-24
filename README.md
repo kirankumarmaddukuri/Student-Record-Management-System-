@@ -1,4 +1,4 @@
-# 🎓 Student Record Management System (C++)
+# 🎓 Student Record Management System 
 
 A simple yet complete **Student Record Management System** built using **C++**, featuring CRUD operations, data persistence through file handling, a clean and enhanced CLI interface, and robust input validation. Ideal for managing basic student information like roll number, name, class, course, mobile number, and admission year.
 
@@ -89,12 +89,5 @@ Delete the `admin.txt` file and restart the program. You will be prompted to set
 
 ---
 
-## 📋 License
 
-This project is open source and free to use.
 
----
-
-## ✉️ Contact
-
-For questions or suggestions, feel free to reach out.
